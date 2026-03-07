@@ -20,11 +20,3 @@ def health():
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000)
-```
-
-**Step 3 — Write requirements.txt**
-
-Open `app/requirements.txt` and add:
-```
-flask==2.3.3
-gunicorn==21.2.0
