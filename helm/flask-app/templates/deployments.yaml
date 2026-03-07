@@ -30,3 +30,8 @@ spec:
         env:
         - name: ENV
           value: {{ .Values.env.ENV }}
+        - name: APP_SECRET_KEY
+          valueFrom:
+            secretKeyRef:
+              name: flask-app-secret
+              key: APP_SECRET_KEY
