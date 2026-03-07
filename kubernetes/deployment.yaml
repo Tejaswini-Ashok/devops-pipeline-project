@@ -42,8 +42,3 @@ spec:
     port: 80
     targetPort: 5000
   type: LoadBalancer
-```
-
-**Replace `YOUR_ECR_URI`** with your actual ECR URI. Go to AWS Console → ECR → flask-app → copy the URI. It looks like:
-```
-123456789.dkr.ecr.eu-north-1.amazonaws.com/flask-app
