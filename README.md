@@ -72,4 +72,10 @@ helm install flask-app helm/flask-app
 http://<LoadBalancer-URL>
 ```
 <img width="1366" height="768" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/7e2cdb72-a264-465c-a33d-749f11ea6263" />
+<img width="1366" height="768" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/629417f1-924d-4ccc-9f5d-30e97e4c27ea" />
+<img width="1366" height="768" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/f410f4a7-c554-4969-a6f3-ed3fb191af7b" />
+<img width="1366" height="768" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/6359f277-6a9d-4508-8c2d-8c28c6fe0e1f" />
+
+
+
 
