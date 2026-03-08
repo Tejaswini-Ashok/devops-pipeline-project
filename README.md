@@ -1,5 +1,9 @@
 # devops-pipeline-project
 # Cloud Native DevOps Pipeline
+Built a cloud native CI/CD pipeline deploying a containerized Flask app to AWS EKS using GitHub Actions, Terraform, and Helm charts
+Implemented GitOps deployment using ArgoCD for automated sync from GitHub to Kubernetes
+Configured HPA autoscaling, AWS Secrets Manager integration, and CloudWatch Container Insights for production grade observability
+Provisioned all infrastructure as code using Terraform across VPC, EKS, and IAM resources
 
 ## Architecture
 ```
